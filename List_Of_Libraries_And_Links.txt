@@ -1,0 +1,7 @@
+<Arduino.h> Pre-Installed
+<TFT_eSPI.h> Install from here: https://github.com/Seeed-Studio/Seeed_Arduino_LCD
+"Seeed_Arduino_GroveAI.h" Install from here: https://github.com/limengdu/Seeed-Grove-Vision-AI-Moudle
+<Wire.h> Pre-Installed
+"sgp30.h" Install from Here: https://github.com/Seeed-Studio/SGP30_Gas_Sensor
+<SensirionI2CSht4x.h> Install from Here: https://github.com/Sensirion/arduino-i2c-sht4x
+<Disk91_LoRaE5> include from here: https://github.com/limengdu/Disk91_LoRaE5
